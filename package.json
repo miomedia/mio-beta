@@ -1,0 +1,17 @@
+{
+  "name": "mio-media",
+  "version": "1.0.0",
+  "description": "Social Media App",
+  "main": "index1001010101001010000001.js",
+  "scripts": {
+    "start": "node index1001010101001010000001.js",
+    "dev": "nodemon index1001010101001010000001.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.22.1",
+    "express-session": "^1.19.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
