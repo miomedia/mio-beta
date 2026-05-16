@@ -1,0 +1,270 @@
+{
+  "conversations": {
+    "user_1771417685649_o7knqdnbj_user_1771418057348_navoolftq": {
+      "participants": [
+        "user_1771417685649_o7knqdnbj",
+        "user_1771418057348_navoolftq"
+      ],
+      "messages": [
+        {
+          "id": "msg_1771434305828_a9wj9zt7d",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771418057348_navoolftq",
+          "text": "P",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-18T17:05:05.828Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771435695446_r42ak0dje",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771418057348_navoolftq",
+          "text": "",
+          "mediaUrl": "/uploads/chat/images/chat-1771435683485-616759804.jpg",
+          "mediaType": "image",
+          "timestamp": "2026-02-18T17:28:15.446Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771437138109_f8otb63e8",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771418057348_navoolftq",
+          "text": "P",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-18T17:52:18.109Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771437995909_mheae270s",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771418057348_navoolftq",
+          "text": "P",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-18T18:06:35.910Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771438000805_fc3jbd4h9",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771418057348_navoolftq",
+          "text": "",
+          "mediaUrl": "/uploads/chat/images/chat-1771437999135-560965834.jpg",
+          "mediaType": "image",
+          "timestamp": "2026-02-18T18:06:40.805Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771438068540_vnqszzxga",
+          "senderId": "user_1771418057348_navoolftq",
+          "receiverId": "user_1771417685649_o7knqdnbj",
+          "text": "P",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-18T18:07:48.540Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771438110785_i36l9gbiu",
+          "senderId": "user_1771418057348_navoolftq",
+          "receiverId": "user_1771417685649_o7knqdnbj",
+          "text": "P",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-18T18:08:30.785Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771438117567_bccm4w0bq",
+          "senderId": "user_1771418057348_navoolftq",
+          "receiverId": "user_1771417685649_o7knqdnbj",
+          "text": "O",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-18T18:08:37.567Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771485279644_75lefcuyn",
+          "senderId": "user_1771418057348_navoolftq",
+          "receiverId": "user_1771417685649_o7knqdnbj",
+          "text": "P",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-19T07:14:39.644Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771485286315_xyvw8itl8",
+          "senderId": "user_1771418057348_navoolftq",
+          "receiverId": "user_1771417685649_o7knqdnbj",
+          "text": "",
+          "mediaUrl": "/uploads/chat/images/chat-1771485285082-309308119.jpg",
+          "mediaType": "image",
+          "timestamp": "2026-02-19T07:14:46.315Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771488331922_vi7i3jd75",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771418057348_navoolftq",
+          "text": "P",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-19T08:05:31.922Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771488339631_agblwjk0l",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771418057348_navoolftq",
+          "text": "",
+          "mediaUrl": "/uploads/chat/images/chat-1771488337043-716770992.jpg",
+          "mediaType": "image",
+          "timestamp": "2026-02-19T08:05:39.631Z",
+          "read": true
+        }
+      ],
+      "lastMessageAt": "2026-02-19T08:05:39.631Z",
+      "unreadCount": {
+        "user_1771417685649_o7knqdnbj": 0,
+        "user_1771418057348_navoolftq": 0
+      }
+    },
+    "user_1771417685649_o7knqdnbj_user_1771417959854_zmmrpb6md": {
+      "participants": [
+        "user_1771417685649_o7knqdnbj",
+        "user_1771417959854_zmmrpb6md"
+      ],
+      "messages": [
+        {
+          "id": "msg_1771440112200_hqkvelrf2",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771417959854_zmmrpb6md",
+          "text": "P",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-18T18:41:52.200Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771440899363_09rrf36fy",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771417959854_zmmrpb6md",
+          "text": "P",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-18T18:54:59.363Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771441165666_a79f1rmrq",
+          "senderId": "user_1771417959854_zmmrpb6md",
+          "receiverId": "user_1771417685649_o7knqdnbj",
+          "text": "Iyaa",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-18T18:59:25.666Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771444757352_ilbpskkt2",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771417959854_zmmrpb6md",
+          "text": "P",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-18T19:59:17.352Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771444768723_qp439dipr",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771417959854_zmmrpb6md",
+          "text": "",
+          "mediaUrl": "/uploads/chat/images/chat-1771444767488-890794149.jpg",
+          "mediaType": "image",
+          "timestamp": "2026-02-18T19:59:28.723Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771446982343_0ko2h3ghb",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771417959854_zmmrpb6md",
+          "text": "P",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-18T20:36:22.343Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771447345585_7jc974pu0",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771417959854_zmmrpb6md",
+          "text": "",
+          "mediaUrl": "/uploads/chat/videos/chat-1771447337273-82794132.mp4",
+          "mediaType": "video",
+          "timestamp": "2026-02-18T20:42:25.585Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771447406426_0xk0powll",
+          "senderId": "user_1771417685649_o7knqdnbj",
+          "receiverId": "user_1771417959854_zmmrpb6md",
+          "text": "",
+          "mediaUrl": "/uploads/chat/images/chat-1771447405907-385268768.jpg",
+          "mediaType": "image",
+          "timestamp": "2026-02-18T20:43:26.426Z",
+          "read": true
+        },
+        {
+          "id": "msg_1771488689934_jf5ljw56x",
+          "senderId": "user_1771417959854_zmmrpb6md",
+          "receiverId": "user_1771417685649_o7knqdnbj",
+          "text": "Tes",
+          "mediaUrl": null,
+          "mediaType": null,
+          "timestamp": "2026-02-19T08:11:29.934Z",
+          "read": true
+        }
+      ],
+      "lastMessageAt": "2026-02-19T08:11:29.934Z",
+      "unreadCount": {
+        "user_1771417685649_o7knqdnbj": 0,
+        "user_1771417959854_zmmrpb6md": 0
+      }
+    }
+  },
+  "lastMessages": [
+    {
+      "conversationId": "user_1771417685649_o7knqdnbj_user_1771417959854_zmmrpb6md",
+      "participants": [
+        "user_1771417959854_zmmrpb6md",
+        "user_1771417685649_o7knqdnbj"
+      ],
+      "lastMessage": "Tes",
+      "lastMessageAt": "2026-02-19T08:11:29.935Z",
+      "lastSenderId": "user_1771417959854_zmmrpb6md",
+      "unreadCount": {
+        "user_1771417685649_o7knqdnbj": 0,
+        "user_1771417959854_zmmrpb6md": 0
+      }
+    },
+    {
+      "conversationId": "user_1771417685649_o7knqdnbj_user_1771418057348_navoolftq",
+      "participants": [
+        "user_1771417685649_o7knqdnbj",
+        "user_1771418057348_navoolftq"
+      ],
+      "lastMessage": "📷 Gambar",
+      "lastMessageAt": "2026-02-19T08:05:39.631Z",
+      "lastSenderId": "user_1771417685649_o7knqdnbj",
+      "unreadCount": {
+        "user_1771417685649_o7knqdnbj": 0,
+        "user_1771418057348_navoolftq": 0
+      }
+    }
+  ]
+}

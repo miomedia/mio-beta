@@ -1,0 +1,102 @@
+{
+  "customBadges": {
+    "user_1771417685649_o7knqdnbj": [
+      {
+        "name": "Developer",
+        "icon": "🐧",
+        "color": "#667eea"
+      },
+      {
+        "name": "My bini Elaina",
+        "icon": "💓",
+        "color": "#FFD700"
+      },
+      {
+        "name": "coding",
+        "icon": "🍀",
+        "color": "#667eea"
+      },
+      {
+        "name": "Termux/Linux",
+        "icon": "🐧",
+        "color": "#667eea"
+      },
+      {
+        "name": "i love fish it",
+        "icon": "💓",
+        "color": "#667eea"
+      },
+      {
+        "name": "Villain",
+        "icon": "😈",
+        "color": "#667eea"
+      }
+    ],
+    "user_1776818901596_mctjiljtw": [
+      {
+        "name": "Open request",
+        "icon": "💓",
+        "color": "#FF4444"
+      },
+      {
+        "name": "TEAM INFERNAL",
+        "icon": "🔥",
+        "color": "#667eea"
+      }
+    ],
+    "user_1776966113787_jxsemne7w": [
+      {
+        "name": "Suka Iwak",
+        "icon": "🐟",
+        "color": "#667eea"
+      }
+    ],
+    "user_1777097157491_wctb1mutx": [
+      {
+        "name": "suka waguri",
+        "icon": "💓",
+        "color": "#D946EF"
+      }
+    ],
+    "user_1771417959854_zmmrpb6md": [
+      {
+        "name": "Cantik",
+        "icon": "🙂‍↔️",
+        "color": "#667eea"
+      },
+      {
+        "name": "Support developer",
+        "icon": "🍀",
+        "color": "#667eea"
+      }
+    ],
+    "user_1777154216897_opolsjjot": [
+      {
+        "name": "Pengguna pertama",
+        "icon": "🔥",
+        "color": "#667eea"
+      }
+    ],
+    "user_1777167441773_984b8l2w9": [
+      {
+        "name": "TEAM INFERNAL",
+        "icon": "🔥",
+        "color": "#667eea"
+      }
+    ],
+    "user_1777129497599_wg31wngj1": [
+      {
+        "name": "TEAM INFERNAL",
+        "icon": "🔥",
+        "color": "#667eea"
+      }
+    ]
+  },
+  "badgeColors": {
+    "gold": "#FFD700",
+    "silver": "#C0C0C0",
+    "bronze": "#CD7F32",
+    "platinum": "#E5E4E2",
+    "diamond": "#B9F2FF"
+  }
+}
